@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane id="AnchorPane" prefHeight="245.0" prefWidth="321.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8">
+   <children>
+      <TextField layoutX="151.0" layoutY="42.0" AnchorPane.leftAnchor="151.0" />
+      <TextField layoutX="151.0" layoutY="86.0" AnchorPane.leftAnchor="151.0" />
+      <TextField layoutX="151.0" layoutY="127.0" AnchorPane.leftAnchor="151.0" />
+      <Label layoutX="30.0" layoutY="45.0" text="Astronaut Name" AnchorPane.leftAnchor="30.0" />
+      <Label layoutX="30.0" layoutY="90.0" text="Numbre Of Missions" />
+      <Label layoutX="30.0" layoutY="131.0" text="Nationality" AnchorPane.leftAnchor="30.0" />
+      <Button layoutX="30.0" layoutY="176.0" mnemonicParsing="false" prefHeight="34.0" prefWidth="66.0" text="Add" />
+      <Button layoutX="151.0" layoutY="176.0" mnemonicParsing="false" prefHeight="34.0" prefWidth="66.0" text="Clear" />
+      <Button layoutX="234.0" layoutY="176.0" mnemonicParsing="false" prefHeight="34.0" prefWidth="66.0" text="Delete" />
+   </children>
+</AnchorPane>
